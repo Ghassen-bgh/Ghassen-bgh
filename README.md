@@ -25,7 +25,6 @@ I'm Ghassen Boughammoura a Software Developer and student at [HolbertonSchool](h
 - 🥅 2022 Goals: Learn more about Unity and C#.
 - 📫 How to reach me: ghassen.boughammoura@gmail.com.
 - 😄 Pronouns: Ghassen, Lichping.
-- ⚡ Fun fact: I play video games:video_game: and watch anime.
 
 #### Top Technologies and Languages
 
