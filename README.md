@@ -22,7 +22,7 @@ I'm Ghassen Boughammoura a Software Developer and student at [HolbertonSchool](h
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently learning Game Development.
-- 🥅 2022 Goals: Learn more about Unity and C#.
+- 🥅 2023 Goals: Learn more about Unity and C#.
 - 📫 How to reach me: ghassen.boughammoura@gmail.com.
 - 😄 Pronouns: Ghassen, Lichping.
 
