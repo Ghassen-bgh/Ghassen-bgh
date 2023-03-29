@@ -1,5 +1,5 @@
 ## Hi I'm Ghassen <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-I'm Ghassen Boughammoura a Software Developer and student at [HolbertonSchool](https://www.holbertonschool.com).
+I'm Ghassen Boughammoura a Software Engineer at [HolbertonSchool](https://www.holbertonschool.com).
 
  
 <h3 align="center">:mailbox: Reach me out!</h3>
